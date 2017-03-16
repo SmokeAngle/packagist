@@ -10,8 +10,9 @@
     }
   ],
   "autoload": {
-    "psr-4": {
-      "Thrift\\Client\\Member": "src/"
-    }
+        "files": [ 
+            "src/Thrift/Client/Member/THBaseMember.php",
+            "src/Thrift/Client/Member/Types.php"
+        ]
   }
 }
