@@ -1,0 +1,17 @@
+{
+  "name": "rainbow/thbase-member",
+  "type": "library",
+  "description": "thbase member library",
+  "homepage": "https://github.com/SmokeAngle/packagist",
+  "authors": [
+    {
+      "name": "SmokeAngle",
+      "email": "382169722@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Thrift\\Client\\Member": "src/"
+    }
+  }
+}
